@@ -1,3 +1,6 @@
+> **Status: unmodified third-party template.** This is the Nuxt UI starter template (authored by the Nuxt UI team; the commit history is theirs, including automated dependency updates). It was kept as a possible alternative front end and is not used in production.
+> PropAuto AI's production application lives in **[my-project](https://github.com/tato10861-code/my-project)**.
+
 # Nuxt Starter Template
 
 [![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-00DC82?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
